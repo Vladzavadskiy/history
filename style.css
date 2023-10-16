@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    background-color: slategrey;
+}
+
+h1 {
+    padding: 5px;
+    font-size: 70px;
+    text-align: center;
+}
+
+img {
+    border: 5px solid black;
+    padding: 5px;
+    background-color: gray;
+    border-radius: 50px;
+    text-align: center;
+    width: 80%;
+}
+
+div{
+    border: 6px solid black;
+    text-align: center;
+    background-color: beige;
+    border-radius: 30px;
+    margin: 50px;
+    box-shadow: 9px 5px 100px 0 black;
+}
+
+a {
+    border: 3px solid black;
+    border-radius: 30px;
+    background-color: beige;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin: 30px;
+    text-align: center;
+}
+
+iframe{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 30px;
+}
